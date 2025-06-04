@@ -10,3 +10,9 @@ version_scheme = "no-guess-dev"
 
 [tool.ruff]
 line-length = 80
+
+[project.name]
+name = "california"
+
+[project.version]
+version = "0.1.0"
