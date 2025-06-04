@@ -14,6 +14,7 @@ line-length = 80
 [project]
 name = "california"
 version = "0.1.0"
+requires-python = ">=3.11"
 dependencies = [
     "geopandas>=1.0.1",
     "matplotlib>=3.10.1",
