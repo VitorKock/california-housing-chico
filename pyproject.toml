@@ -14,3 +14,14 @@ line-length = 80
 [project]
 name = "california"
 version = "0.1.0"
+dependencies = [
+    "geopandas>=1.0.1"
+    "matplotlib>=3.10.1"
+    "pandas>=2.2.3"
+    "pyarrow>=16.1.0"
+    "scikit-learn>=1.6.1"
+    "scipy>=1.15.2"
+    "seaborn>=0.13.2"
+    "streamlit>=1.45.1"
+    "statsmodels>=0.14.4"
+]
