@@ -60,7 +60,7 @@ where predictions can be visualized spatially on an interactive map.
 
 The final model is available for interaction in a Streamlit app, where users can:
 
-[![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlitapp.com/)
+[![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://california-housing-prices.streamlit.app/)
 
 * Select a county from the map
 * Adjust inputs like house age or median income
