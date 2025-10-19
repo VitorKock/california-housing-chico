@@ -8,6 +8,7 @@
 
 This project explores the use of machine learning to predict housing prices in
 California based on demographic, geographic, and real estate-related features.
+
 By combining regression models with geospatial analysis, the goal is to generate
 accurate, interpretable, and actionable predictions.
 
